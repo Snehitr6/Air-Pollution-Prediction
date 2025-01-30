@@ -63,21 +63,4 @@ This application is designed to predict air pollution levels based on user input
 5. **Logout**
    - You can log out from any page to end your session.
 
-### **API Endpoints**
-- **POST /handle_register**: Handles user registration.
-- **POST /handle_login**: Handles user login.
-- **POST /predict**: Processes prediction requests.
-- **POST /save_to_excel**: Saves prediction results to an Excel file.
 
-### **Contributing**
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-### **License**
-This project is licensed under the MIT License.
-
-### **Contact**
-For any inquiries, please contact [your-email@example.com].
-
----
-
-**Note:** Ensure you have a valid API key from OpenWeatherMap if you plan to integrate weather data in the future. Follow the steps in the `script.js` file to insert your API key.
